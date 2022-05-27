@@ -67,7 +67,7 @@ But his previous place (his parents' house) caught fire, and all of his hard wor
 
 Species: Mobian - Hedgehog
 
-Likes: Doing __nothing__, for the good of the future. Why? How? Read his backstory, please.
+Likes: Doing __nothing__, mostly.
 
 Dislikes: 
 
