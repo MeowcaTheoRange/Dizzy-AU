@@ -87,7 +87,7 @@ Weapons: The spatula.
 
 Personality: Very outgoing and friendly. When he needs to be, though, he's commanding and can communicate well to those he manages.
 
-Where they stay or live: A very well-kept house. With a cat! Her name is Puss.
+Where they stay or live: A very well-kept house. With a cat! Her name is Jan.
 
 Description: Silver. Y'know, that hedgehog from 200 years in the future. 
 Well, in the Dizzy AU, nothing *ever* happens. 
