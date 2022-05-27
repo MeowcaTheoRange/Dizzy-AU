@@ -1,4 +1,4 @@
-# Situation - Date/Time
+# Miles' apartment - 5 days after resurfacing from his incident
 - Miles Prower
 - Silver Blure
 
