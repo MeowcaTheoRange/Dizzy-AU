@@ -94,3 +94,6 @@ Because conflict doesn't really exist. Because of that, in future Mobius, everyo
 So life, despite being a luxury, since there's nothing urgent to do, there's nothing _good_ to do, either. Nobody really has anything to do. 
 So Silver went back 200 years into the past to actually find something to do. 
 Of course, nothing unique is in the past, but here, Mobius is a lot less advanced, and that means there are things to do! Woo, great job.
+```js
+// TODO: fix this bullshit description
+```
