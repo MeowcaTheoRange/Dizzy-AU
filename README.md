@@ -21,6 +21,7 @@ Mature content __is ahead.__ Please be wary of these themes:
 - Mentions of self-harm
 - Trauma and traumatic events
 - Two gay boys being gay
+- Sonic cringe.
 
 Thank you for heeding these warnings.
 
