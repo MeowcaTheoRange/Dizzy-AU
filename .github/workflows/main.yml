@@ -29,4 +29,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd $GITHUB_WORKSPACE/code/
-          node converter.js $GITHUB_WORKSPACE/code/
+          node converter.js $GITHUB_WORKSPACE
