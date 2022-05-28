@@ -4,12 +4,6 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -31,3 +25,6 @@ jobs:
           cd $GITHUB_WORKSPACE/code/
           ls $GITHUB_WORKSPACE
           node converter.js $GITHUB_WORKSPACE
+          git add $GITHUB_WORKSPACE/story/*
+          git commit -m "Automated file change
+          git push origin master
