@@ -44,7 +44,7 @@
 
 > "Oh my god Miles you really are alive"
 
-> "Or wait are you"
+> "Or wait. are you"
 
 > "Please tell me this is real. video call me right now. "
 
