@@ -5,8 +5,6 @@
 ### Miles Prower
 
 
-> *Miles stays silent, and Silver leaves, properly closing the door.*
-
 > *Miles wakes up to his phone ringing. He stretches, itching his head.* "who the hell..." *He looks to his phone, which displays the name "Silver".*
 
 > "...oh, it's Silver." *Miles sighs, grabbing the phone and picking up the call.*
