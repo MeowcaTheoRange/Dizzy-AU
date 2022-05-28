@@ -31,4 +31,4 @@ json.forEach((v, i) => {
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
 })
 fs.writeFileSync(`${path}/story/human-readable.md`, fullMd, {encoding: "utf8"});
-fs.writeFileSync(`${path}/story/index.md`, "# The full, unbroken story of the Dizzy AU.\n[See it on GitHub Pages.](https://meowcatheorange.github.io/Dizzy-AU/index)\n\n" + fullMd, {encoding: "utf8"});
+fs.writeFileSync(`${path}/index.md`, "# The full, unbroken story of the Dizzy AU.\n[See it on GitHub Pages.](https://meowcatheorange.github.io/Dizzy-AU/index)\n\n" + fullMd, {encoding: "utf8"});
