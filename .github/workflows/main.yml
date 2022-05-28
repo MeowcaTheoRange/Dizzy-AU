@@ -35,4 +35,4 @@ jobs:
         run: |
           git add $GITHUB_WORKSPACE/story/*
           git commit -m "Automated file change"
-          git push origin master
+          git push origin main
