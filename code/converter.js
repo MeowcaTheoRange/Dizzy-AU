@@ -1,6 +1,8 @@
 const fs = require("fs");
+var path = process.argv[2]
+console.log(path);
 
-var json = JSON.parse(fs.readFileSync("$GITHUB_WORKSPACE/story/database.json", { encoding: "utf8" }));
+var json = JSON.parse(fs.readFileSync(path + "/story/database.json", { encoding: "utf8" }));
 
 json.forEach((v, i) => {
   var mdTemp = `# ${v.scene}\n`;
@@ -24,5 +26,5 @@ json.forEach((v, i) => {
         break;
     }
   });
-  fs.writeFileSync(`$GITHUB_WORKSPACE/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
+  fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
 })
