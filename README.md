@@ -18,6 +18,13 @@ Mature content __is ahead.__ Please be wary of these themes:
 
 Thank you for heeding these warnings.
 
+## What is the Dizzy AU?
+
+The Dizzy AU is a Sonic AU, where the only conflict around is the conflict of absolute boredom.
+
+It's a slice-of-life "RP" story ran by MeowcaTheoRange. 
+It's not very interesting, only bringing low-lit grammar and barely any newlines.
+
 ## Where's the story??
 
 Any story format that'll interest you as a **casual reader** would probably be in `story/human-readable`.
@@ -25,12 +32,15 @@ Any story format that'll interest you as a **casual reader** would probably be i
 Any story format that'll interest you as a **developer** or an avid **REST user** would definitely be in `story/database.json`. This is only for automatic human-readable creation and API usage. 
 Feel free to use the story's JSON file as a source for an API, just **credit the repository** of the Dizzy AU somewhere in your project.
 
-## What is the Dizzy AU?
+## Developers
 
-The Dizzy AU is a Sonic AU, where the only conflict around is the conflict of absolute boredom.
+Developers can refer to the [API help guide](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/help/api-guide.md) to assist them.
 
-It's a slice-of-life "RP" story ran by MeowcaTheoRange. 
-It's not very interesting, only bringing low-lit grammar and barely any newlines.
+This guide is for the file [database.json](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/story/database.json) and how it is formatted to be interpreted by APIs.
+
+The built in [Converter API](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/code/converter.js) can serve as a reference, as it converts the JSON format to multiple MD files.
+
+You can also use [template.md](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/story/human-readable/Template.md) and [the template line](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/4f008e60240881f853853abcbb273c1de2266fbf/story/database.json#L1374) of database.json to see how the data is processed.
 
 ## Inspirations
 
