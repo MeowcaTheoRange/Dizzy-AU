@@ -29,6 +29,8 @@ It's not very interesting, only bringing low-lit grammar and barely any newlines
 
 Any story format that'll interest you as a **casual reader** would probably be in `story/human-readable/` or `story/human-readable.md`.
 
+You can also read the story, properly formatted on the [Pages build](https://meowcatheorange.github.io/Dizzy-AU/index).
+
 Any story format that'll interest you as a **developer** or an avid **REST user** would definitely be in `story/database.json`. This is only for automatic human-readable creation and API usage. 
 Feel free to use the story's JSON file as a source for an API, just **credit the repository** of the Dizzy AU somewhere in your project.
 
