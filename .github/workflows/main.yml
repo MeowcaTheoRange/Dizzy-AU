@@ -23,6 +23,8 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd $GITHUB_WORKSPACE/code/
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
           ls $GITHUB_WORKSPACE
           node converter.js $GITHUB_WORKSPACE
           git add $GITHUB_WORKSPACE/story/*
