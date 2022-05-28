@@ -3,6 +3,7 @@ var path = process.argv[2]
 console.log(path);
 
 var json = JSON.parse(fs.readFileSync(path + "/story/database.json", { encoding: "utf8" }));
+var fullMd = "";
 
 json.forEach((v, i) => {
   var mdTemp = `# ${v.scene}\n`;
@@ -26,5 +27,7 @@ json.forEach((v, i) => {
         break;
     }
   });
+  fullMd += mdTemp + "\n\n";
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
 })
+fs.writeFileSync(`${path}/story/human-readable.md`, fullMd, {encoding: "utf8"});
