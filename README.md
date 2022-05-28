@@ -25,6 +25,12 @@ Mature content __is ahead.__ Please be wary of these themes:
 
 Thank you for heeding these warnings.
 
+## Inspirations
+
+- [Heartstopper](https://aliceoseman.com/heartstopper/)
+- [Sonic Squad™ (a Rp place)](https://discord.gg/SA9JDzfbWj)
+- Previous slice-of-life endeavors of mine
+
 ## Main Characters:
 
 ### Miles Prower
