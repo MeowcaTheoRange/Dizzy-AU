@@ -38,7 +38,7 @@ Developers can refer to the [API help guide](https://github.com/MeowcaTheoRange/
 
 This guide is for the file [database.json](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/story/database.json) and how it is formatted to be interpreted by APIs.
 
-The built in [Converter API](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/code/converter.js) can serve as a reference, as it converts the JSON format to multiple MD files.
+The built in [Converter file](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/code/converter.js) can serve as a reference, as it converts the JSON format to multiple MD files.
 
 You can also use [template.md](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/main/story/human-readable/Template.md) and [the template line](https://github.com/MeowcaTheoRange/Dizzy-AU/blob/4f008e60240881f853853abcbb273c1de2266fbf/story/database.json#L1374) of database.json to see how the data is processed.
 
