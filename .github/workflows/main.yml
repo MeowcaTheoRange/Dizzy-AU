@@ -28,5 +28,5 @@ jobs:
           ls $GITHUB_WORKSPACE
           node converter.js $GITHUB_WORKSPACE
           git add $GITHUB_WORKSPACE/story/*
-          git commit -m "Automated file change
+          git commit -m "Automated file change"
           git push origin master
