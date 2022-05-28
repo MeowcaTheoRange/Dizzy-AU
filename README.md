@@ -4,13 +4,6 @@ This repository will be tasked to hold the whole chronicles of the Dizzy AU.
 Perhaps it will also be formatted in multiple ways, database-sortable, human-readable, and maybe even a big fat single-file text doc.
 Either way it ends up, it will sit here.
 
-## What is the Dizzy AU?
-
-The Dizzy AU is a Sonic AU, where the only conflict around is the conflict of absolute boredom.
-
-It's a slice-of-life "RP" story ran by MeowcaTheoRange. 
-It's not very interesting, only bringing low-lit grammar and barely any newlines.
-
 ## ⚠️⚠️ WARNING ⚠️⚠️
 
 Mature content __is ahead.__ Please be wary of these themes:
@@ -24,6 +17,20 @@ Mature content __is ahead.__ Please be wary of these themes:
 - Sonic cringe.
 
 Thank you for heeding these warnings.
+
+## Where's the story??
+
+Any story format that'll interest you as a **casual reader** would probably be in `story/human-readable`.
+
+Any story format that'll interest you as a **developer** or an avid **REST user** would definitely be in `story/database.json`. This is only for automatic human-readable creation and API usage. 
+Feel free to use the story's JSON file as a source for an API, just **credit the repository** of the Dizzy AU somewhere in your project.
+
+## What is the Dizzy AU?
+
+The Dizzy AU is a Sonic AU, where the only conflict around is the conflict of absolute boredom.
+
+It's a slice-of-life "RP" story ran by MeowcaTheoRange. 
+It's not very interesting, only bringing low-lit grammar and barely any newlines.
 
 ## Inspirations
 
