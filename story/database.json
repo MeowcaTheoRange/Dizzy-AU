@@ -1,1 +1,1393 @@
-[]
+[
+  {
+    "id": "AAB_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["silver", "Silver Blure"],
+      ["miles", "Miles Prower"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*Diz is sleeping on his couch again. He's been doing this since the day he got his first place. It saves space, but it gives him headaches the day after... Oh well. His TV is idling, using that bouncing screensaver with the TV logo on it. It's been like this for 14 hours, 15 minutes after he fell asleep. Other than that, everything's completely normal...*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*A knock is heard on the door, followed by what seems like feet shuffling away from the door.*",
+          "*The buzzer rings shortly after the steps are heard departing, which wakes Miles up.*"
+        ],
+        "person": "---"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"gah- mmh- in a MINUTE!\" *he shouts across the room, crawling out of bed and up to let whatever's out there in.* \"and this late, too... what happened to calling first.\"",
+          "*...After a while, nobody's appeared at the door, so he goes to check out in the hallway.*",
+          "*It's a package, adressed to little ol' Diz himself.* \"Oh, my package. I've been waiting for this...\" *he says, nabbing the package and shutting the door behind him.* \"...wonder which order it is.\" *He grabs a nearby knife... stopping after he picks it up. He observes it... there's a little bit of blood on the edge.* \"...oh. right. Wrong knife.\" *He takes a detour into his kitchen, to get another, cleaner knife. Then, he cuts the tape with said knife, opening up the box.*",
+          "*It's a box of donuts, with a note on top of it. The address line says \"Miles Prower, 14th b.\" and the return address reads \"Silver\". Upon seeing the note, he smirks.* \"Well, this isn't my order, that's for sure. And it's from Silver... this'll be somethin'.\" *Miles takes the box with him into the living room/bedroom, taking out the box of donuts, throwing the package container behind the couch, and detaching the note from the donuts.*",
+          "*He opens up the note, reading it.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*Hey, Tails, I sincerely hope you're really alive and well while reading this. This box of donuts is for you, sir. I'm so thankful you've been found alive. Your willingness to end it all was truly depressing to hear... if only I could have helped you more during those times. I hope you're doing better right now, seriously. So, I got you these donuts, and I've messaged your phone... if you're even still on it... an offer if you wanted to come over and hang out sometime so hopefully, we can... talk it out. It's so nice to have you back, I seriously thought you'd be gone for good... Please get back to me any way you can, no matter the method. And if you can't... well, so be it. At least this message reached you well, if you're reading this.*",
+          "*Your dearest manager and friend,*",
+          "*- Silver*\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles sits back, smiling.* \"...okay, wow- maybe I should text him. He clearly does miss me.\" *He opens the donut box, taking out a donut and biting it.*",
+          "*Tails then takes out his phone, one-handed messaging Silver back.*",
+          "\"*silv hey im alive and im eating one of your donuts hahah*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh my god Miles you really are alive\"",
+          "\"Or wait are you\"",
+          "\"Please tell me this is real. video call me right now. \""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*yeah yeah calm your ass silver im figuring that shit out*\"",
+          "\"*how do i video call on this godforsaken thing ffs*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Theres a button on the top left click that it will ask you what. you want to use click FaceTime\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*which button on the left. the box one?*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"What\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*the box one. the one that looks like a box with a beam of light shooting out of it*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yesthat one\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*ok*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "break",
+        "content": "Later"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Diz sighs, standing up and setting the donuts on the kitchen counter. He then collapses back on the couch, really tired.*",
+          "*Overall, tonight was great. Diz got some donuts, he had someone truly care for him in what felt like... months... and he got to see his job manager and super close friend, Silver again.*",
+          "*Miles and Silver were very close friends. Before the incident, Miles had a huge crush on Silver when they were hanging out. On the job, their closeness was kept more on the down-low. But Miles truly had feelings for Silver... but his other feelings were more powerful, resulting in the incident that we all know.*",
+          "*Now, Miles feels slight comfort near Silver, although.. not really anything more than cool friendliness... but to regain that love for Silver, they'd need to be around each other once again. That will happen soon enough...*",
+          "*Diz eventually falls back asleep, smiling while doing so... Thinking about how someone truly cared for him when he was struggling warmed him inside.*"
+        ],
+        "person": "miles"
+      }
+    ],
+    "created": "2022-05-28T03:33:23Z"
+  },
+  {
+    "id": "AAC_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["silver", "Silver Blure"],
+      ["miles", "Miles Prower"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*It's the middle of the day. The light from the window hits Miles' body and face, which... is going directly in his eyes. Morning light, duh... it's so bright, it'll hurt your eyes. Miles wakes up, shielding his eyes from the light, mumbling and getting up to close the blinds.*",
+          "\"...oh, god damn it- i should have closed these damn things-\" *He opens his eyes, stretching and itching his back, also yawning.*",
+          "\"...my god, how long did I sleep?\" *He begins to walk over to the kitchen, thinking of those donuts Silver sent.*",
+          "\"whatever. 'least I got these donuts.\" *Miles takes out his phone, checking the time. It's `8:21`. He decides to message Silver again.*",
+          "\"*silver*\"",
+          "\"*yo are you awake*\"",
+          "*...Nothing back. Oh well. Miles takes a donut and heads back to the living room, still having his phone in hand. He sits back on the the couch and reads his past texts with Silver as he waits for a reply.*",
+          "*Miles gets... really sad as he reads through these texts. Of course, he liked Silver, but in his texts, he really didn't have anything to him at all, other than mild annoyance, like a \"why are you texting me\" annoyance. It made Miles think that maybe he had the wrong attitude towards Silver this whole time.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yeah I am. Are you\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Well, Silver replied. Miles quickly scrolled back to the end of the conversation, typing.*"
+        ],
+        "person": "---"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*mhm. i just woke up. thx for the donuts dude*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"No problem lol\"",
+          "\"Do you have any free time right now\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*uh, yeah. feel free to come over anytime my dude*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Great cool:) Is it OK. If I go there __right now__\"\"*uh, yeah. feel free to come over anytime my dude*\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*huh? i mean yeah come anytime like i said. but how are you gonna get here in under like a second*\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\":)\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"*nevermind whatever*\""
+        ],
+        "person": "miles"
+      }
+    ],
+    "created": "2022-05-28T03:33:50Z"
+  },
+  {
+    "id": "AAD_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["silver", "Silver Blure"],
+      ["miles", "Miles Prower"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*...Silver appears out of nowhere after a... very long while, waving to Miles...*",
+          "*...he's passed out on the couch. It's night-time already.*",
+          "\"oh. Maybe I took a bit too long refining my teleportation.\"",
+          "*Silver sits down next to Miles, patting his head softly.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"hhfgh- what- who's there??\" *Miles wakes up after being pat, looking around. His blanket is over his face.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh-! Sorry, I woke you up. I just got here.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...uh-huh... uhh... how long has it been since you've last messaged me?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh, uhh... 22 hours. It's been a... whole day- hah-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"mm. maybe you should have walked.\" *Miles silently remarks, curling back up, resting in Silver's lap.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...ah-\" *Silver reacts as Diz rests his head on his lap... but he gets used to it.* \"...uhh, yeah, I should've. is it OK if I stay over for the night?\" *Silver asks, modestly petting Miles as he slowly goes back to sleep.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"yeah, whatever's left of it. we can hang out... later today.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Sounds good... nighty-night.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles reaches for the TV remote, located on the coffee table nearby. He grabs it, turning the TV on and muting the volume.* \"here you go. you can watch some tv if you want.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"thanks, Miles.\" *Silver smiles, taking the TV remote. He turns the TV off and simply sleeps with Diz until the next day.*"
+        ],
+        "person": "silver"
+      }
+    ],
+    "created": "2022-05-28T03:34:03Z"
+  },
+  {
+    "id": "AAE_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["silver", "Silver Blure"],
+      ["miles", "Miles Prower"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*zzz...*",
+          "*Miles is rolled over on the floor, due to a mid-sleep fall that he surprisingly didn't wake up from. Silver's sleeping on the bed sideways, like a baby.*",
+          "*Miles slowly gets up... bumping his head on the coffee table.*",
+          "\"Ow! damn it-\" *He pushes away the coffee table, standing up and looking down at Silver.*",
+          "\"...wow, he's really in it for the heavy sleep.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver was in fact, snoring loudly while sleeping. The sun's in his eyes but literally nothing like that would seem to wake him up.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Diz just pats Silver's head, walking over to the kitchen about to eat all of those donuts. He opens the fridge, which is endlessly empty, except for the donut box placed directly in the center. He opens it and grabs two donuts.*",
+          "*He returns to the kitchen, setting a donut on the coffee table and poking Silver.*",
+          "\"Yo. Silver. Dude. Wake up.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"mmgh- Miles- whhat is it-?\" *Silver mumbles, like he wasn't snoring like hell before. He itches his head, sitting up.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles hands Silver a donut.* \"Here you go. You can have it.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh, thank you- but- no thanks... They're for you, y'know. If I wanted a donut, I would have ordered it with the box.\" *Silver politely declines, and he looks into Miles' eyes. It's obvious he's insisting that Silver takes the donut.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Take it. I've been trying to restrain myself from eating too much, so this is for you. Have a donut, dude.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...I... okay.\" *Silver takes the donut, taking a nibble.* \"...wow, these are good-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Aren't they? They're really good.\" *Miles sits next to Silver, eating his own donut.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yeah- wow- maybe I should have gotten some for myself-\" *Silver wolfs down his donut in seconds, laying back on the couch and exhaling.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...you ate that fast. Were you trying to hide the donut from somebody?\" *Miles teases, poking at Silver.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"yep. Hiding them from you.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...y'know, we could just- go to the donut place you got these from. You don't have to eat my donuts.\" *he says, also laying back soon enough.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yeah, but there's already donuts here-\" *Silver whines sarcastically.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles sighs.* \"I don't care... at least you give us most of the cut.\" *Miles stands up, grabbing his wallet off of the coffee table, taking out some money from it.* \"Let's go. It shouldn't be too far, right?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Mhm! It's only a block away from my house. You know where my house is, right?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Uh... nope. I forgot.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...Oh- OK. Your phone has the directions, right?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I don't use... my phone... for navigation, Silver.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...oh. Well, uh, that's OK! That's fine. I know where my house is.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Because it's your house?\" *Miles sneers.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...yeah? That's... whatever-\" *Silver paces over to the door, waiting patiently for Miles to get his stuff together.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles grabs his wallet, keycard, and phone.* \"Alright, go on, let's go.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver bursts through the door, Miles in tow. He rushes down the stairs, not waiting for Miles at all.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*scoff* \"Silver, wait up, dumbass-\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "break",
+        "content": "Later"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles and Silver return, with two boxes of donuts in each of their arms. Four boxes of donuts, two little dudes who are probably not going to eat them all. Miles sets his box on the counter, while Silver sets his box on the coffee table in the living room.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Whew... finally here... I'm so hungry-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Hold your horses, Silver... we're not just gonna stuff ourselves with donuts for the entire day...\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Then why did we get *four boxes..?* I'm pretty sure we're not gonna be able to eat them all before they get stale-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Well, maybe I *like* stale donuts, Silver.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...you do you, then...\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Later in the day, the two are huddled on the couch, sharing a blanket. They're watching funny stuff on the TV, while the second donut box is open.*",
+          "*Miles grabs a donut from the box, and Silver rips it in half for both of them to share. They've been doing this for the whole hour or two.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver cuddles tightly with Miles, beginning to doze off.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Woah- dude- what are you doing-\" *Miles says, a bit shocked by Silver's move.* \"You good-? Are... you tired?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"yeah- sorry.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"N-no, it's OK. It's OK, Silv.\" *Miles lays back, cuddling with Silver, just like he did himself.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...should we close the donut box?\" *Silver asks.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"nah. I like stale donuts~\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...OK, then... nevermind.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Oh yeah. By the way, they end up dozing off, until next morning.*"
+        ],
+        "person": "---"
+      }
+    ],
+    "created": "2022-05-28T03:34:14Z"
+  },
+  {
+    "id": "AAF_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["miles", "Miles Prower"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*It's been 2 days. Silver's left, in order to go to work. Miles is alone, watching TV again. He sighs, thinking of Silver... what a cool little guy. It's midnight, and Miles is still up despite how late it is. His sleep schedule is gruesomely messed up...*",
+          "*He's watching romance comedies. Rom-coms. The real saucy ones. He's watching the characters' dynamics closely, thinking if him and Silver match any singly one of them...*",
+          "*Miles feels a bit lonely without Silver, though. It's like his only motivation is that cool little hedgehog. But alas, Silver's not here to keep him company... and Miles doesn't have his job anymore, due to \"the incident\". He's here, living off of unemployment, and hoping to God he doesn't die before he's finally able to do something about his work status.*",
+          "*In the rom-com, there's a nice couple Miles has been focused on for the longest time. The woman's name: Marissa. The man's name?* ***Miles.*** *He's been focused on the two since the first episode. Miles ticks all of the boxes for himself... lazy, fat (at least, for Mobian standards), and kind of awkward. Miles is a guy who's desperate for anything life has to give him, and maybe Marissa could be the thing he's been begging for. Marissa, she reflects Silver nicely as well. She's timid, and kind of the submissive type, but she'd definitely tell Miles to get up and go take an opportunity if he was about to miss one. Miles and Marissa don't live together, but their love is regardless of distance.*",
+          "*Miles (Tails) has been trying to find answers from the show, to some avail. He's been thinking about his sexuality, and where he's at. Is he truly in* ***love*** *with Silver? Or is this just a silly friendship thing? He's been trying to piece together this puzzle of himself ever since he started watching... if he actually loves Silver the way Show Miles loves Marissa.*",
+          "*But who knows... it could be a whole dumb thing. Just another plant in the farm of friendship. Love is dumb, and Miles (Tails) is very knowing of the fact that it's stupid. But with Silver, it's not dumb...*",
+          "*...it's just complicated.*"
+        ],
+        "person": "miles"
+      }
+    ],
+    "created": "2022-05-28T03:34:42Z"
+  },
+  {
+    "id": "AAG_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*Today, right now, it seems Miles is on the phone. He's making a call to Silver.* \"Hey, Silver. You there?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"yeah, I am. Do you need something? Is this about your old job-?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"No, no, not at all. It's not about the job. It's about *us.* Would... you mind coming over later this afternoon?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...er... yeah, why not. I get off at six, then I should be good to go. What is it, by the way?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I'd rather not say over the phone, heh- you know how I get on this thing with private information.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh. Oh, OK. Uhh, is it... important-? Because... if it is, I can probably get Kevin to cover my managerial shift.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"No, no, it's not too important, you can keep on working. I'm fine with seeing you after six.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...ookay. See you after six, then?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yup, see you then.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Nice. OK. *Adieu, Miles!*\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"U...uh-huh... adieu.\" *click*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "break",
+        "content": "Later"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*A knock is heard on the door. Miles gets up, checking the time. It's about 6:30. Miles unlocks the door, seeing Silver behind it.*",
+          "\"Oh- uh, hey, Silver- you're here.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I'm here, haha-\" *Silver bear-hugs Miles.* \"So... what's up?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles is a bit shocked with the hug, but he tries to keep his composure nonetheless.* \"Erm- would you mind... sitting down for this?\" *Miles says, closing the door and locking it, before heading to the couch to sit. His heart pounds, and tensions are quite high.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Er... it's.no problem at all.\" *Silver sits down at the couch. They share a tense moment of silence, as Miles' awkwardness keeps him at bay.*",
+          "\"So... uh. *ahem*. What is it you want to tell me?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles continues to sit in silence. Pressure is building.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...Miles? Are you there?\" *Silver waves a hand in front of Miles' face.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I'm so sorry-\" *Miles replies, burying his face.* \"god damn it, I should have prepared for this better-\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...uh-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...Silver, you, uh... you know the stuff we've been doing since we... first met?\" *Miles quietly says. Silver leans in to hear.* \"Y'know... the gay stuff-?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Erm... uh-huh, yeah.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles falls into dead silence again. Silver sighs, trying to guess.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Miles... are you trying to say you like me or somethin'? I've never seen you get this... red-faced.\"",
+          "*Silver pats Miles' back, tilting up his head.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...uh... hhh...\" *Miles' heart pounds. He looks up at Silver, directly in his eyes. That damn sincere look of his... shit, he truly actually cares. Miles slowly guides into a hug, breaking into tears.* \"...yeah- i'll be honest, I've liked you this whole time-\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"oh, my God- I... I knew it this whole time, but I didn't know if it was a joke or not- Miles, you're cute, and you're a good guy... right,\"",
+          "*Silver thinks.* \"And... and I'll be honest, you haven't been all secret with being gay for me. I've had my theories, but here you are.\" *Silver smiles, tilting up Miles' head again.* \"I like you too, dude. Of course I would. You're the sweetest guy I know. You might have your flaws, but christ you're just so lovable. So... the feelings are mutual, Miles.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles looks up at Silver, tears in his eyes.* \"...mutual... wow... I don't know how to feel- honestly, I thought I would just fall on my back with this... but mutual feelings.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver pats Miles on the head, while Miles pulls them both into a hug. A hug that marks an event for the ages.*"
+        ],
+        "person": "silver"
+      }
+    ],
+    "created": "2022-05-28T03:34:42Z"
+  },
+  {
+    "id": "AAH_MilesHouse",
+    "scene": "Miles' House",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*Miles wakes up to his phone ringing. He stretches, itching his head.* \"who the hell...\" *He looks to his phone, which displays the name \"Silver\".*",
+          "\"...oh, it's Silver.\" *Miles sighs, grabbing the phone and picking up the call.*",
+          "\"Miles here, what d'ya need?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh, hi- I was just checking on you since yesterday. You OK?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...how much times have you tried to call me?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...Ten times.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"ok... well, I just woke up, so calm yourself. I would definitely have called you when I actually woke up. Anyway, I'm fine. You can stop calling...\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Allright, I will. 'cause at least you picked up. Have a nice day, Miles.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...I won't forget to...\" *Miles hangs up, setting down the phone, sitting up, and rubbing his eyes.*"
+        ],
+        "person": "miles"
+      }
+    ],
+    "created": "2022-05-28T04:40:23Z"
+  },
+  {
+    "id": "AAI_IceCreamStore",
+    "scene": "Ice Cream Store",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*Silver and Miles are sitting at a table, next to each other. They both have vanilla cups with sprinkles and Generic Name Brand Cinnamon Squares atop the mounds of cold. They're having a chat about love and... relationships.*"
+        ],
+        "person": "---"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"So like... how *do* you like being treated in a relationship-?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"uhh... i'm not sure. just... uhh. don't be a jerk? i guess?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Of course, dude. No matter what, I'll let ya keep yer dignity.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"thanks, Silv... y'know, you're a really great dude. that makes me happy.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Aww... Ditto, Miles. I like you cus you're just so sweet.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"hah- okay, then. love you too, man.\"",
+          "*Silver and Miles look at each other. Miles gets flustered, looking directly into Silver's eyes. He looks away, blushing profusely. Silver takes notice, chuckling a little as he pats Miles' head.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver sighs.* \"D'ya wanna take this to my house? It's not too far.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"of course it's not too far, you live in the most urban place I know.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Haha... yeah.\"",
+          "*They both get up, taking their ice cream with them on the road. They exit the shop, heading almost immediately in the direction of Silver's house.*"
+        ],
+        "person": "silver"
+      }
+    ],
+    "created": "2022-05-28T04:40:23Z"
+  },
+  {
+    "id": "AAJ_SilversHouse",
+    "scene": "Silver's House",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "\"...how come i've never been to your house in the years we've known each other?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"You were too busy workin' after six to come with. I would've been happy to show you around, but it's fine.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"ah, those days. remember when i worked for you instead of dating you?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I recall you were still gay back then, too?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"i've always been gay. it's... just a part of me. i've always liked boys... them and their nice bodies... and they can be so sweet but rugged sometimes...\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver raises an eyebrow.* \"...Like who?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles looks directly at Silver, with no hesitation.* \"You know *exactly* who, Silv.\" *Miles comes closer to Silver.* \"c'mon... nice bod, sweet personality...\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver gets a bit flustered, put in an awkward situation with Miles' distance. He tries not to freak out, though.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles sighs.* \"you're perfect. and ripe for loving!\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver smiles, calming down a bit.* \"...ah- well, thank you Miles-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"no need. it just comes pre-packaged, right?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver buries his face in his hands, mostly in embarrassment.* \"oh my God- you smooth asshole--\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"hah- anyway, do you have any tv in here?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Uhh, yeah. it's in the living room! May I show you?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles nods.* \"lead the way, silv.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles and Silver sit down on the couch, cuddling close. Silver passes the remote to Miles, who turns on the TV and looks towards Silver.*"
+        ],
+        "person": "---"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"hey, what do you wanna watch-?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Uh, I dunno. You're the guest, man.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles sighs, a bit tired, like always.* \"...well, OK. i've been watching this one show, it's a, uh, romance comedy. it's called 'stupid love'. have you ever heard of it?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Uh, no, I haven't. Is it good?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"It was good enough to make me confess my love to you, Silv. It's... definitely relatable.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh! Wait, really? No way.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles shakes his head.* \"yes way. it's why we're here, now. it's also why I can do...\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"do what--\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles lifts himself up to face level with Silver, wrapping his arms around Silv.* \"this.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver gets REALLY flustered, but allows it to happen. He gets close to Miles, holding his sides and straight-up kissing him. They peck for a small bit, before Silver deems it a bit too embarrassing and pulls back, covering his face.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...uh- Silver-?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"oh my God oh myGodohmygod- Miiiiiles-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...was it good?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver nods furiously, still looking away from Miles.*"
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Miles smiles slightly, hugging Silver.*"
+        ],
+        "person": "miles"
+      }
+    ],
+    "created": "2022-05-28T03:33:38Z"
+  },
+  {
+    "id": "AAK_SilversHouse",
+    "scene": "Silver's House",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"],
+      ["jan", "Silver's Cat'"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          "*Silver and Miles are both sleeping in Silver's bed. They're cuddling, and Miles is snoring loudly. Silver's cat does not like this snoring.*",
+          "*She jumps up on the bed, strutting to Miles, beginning to swat as his face.*",
+          "*Miles' snoring slowly stops as Silver's cat lands a final blow on his nose.*"
+        ],
+        "person": "jan"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"the huh- OH my god-\" *Miles jumps back to the head of the bed, causing Silver's cat to jump off and run away.*"
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver wakes up in sequence, but actually because, you know, Miles yelped in fear.* \"agh- what's the matter-\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Silver... do you have a cat? You never told me you had a cat.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"oh, yeah, i'm sorry. yeah, I have a cat... her name is jan. why do you ask..?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Because... well, I may have just been repeatedly attacked by her.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silver quietly chuckles.* \"hehe- Nice. she's like that sometimes.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Man, I want a cat... I relate too hard with them.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"you know, if you want, you could babysit jan. i'm gone for most of the day without her, so it would be great to have someone to watch her.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"I mean, sure... but are you sure? My apartment's small, and your house is... well, it's relatively big. Cats love running around, right?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"i never said it would be at your place. you can stay over here and watch her.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Oh. Well... yeah, why not? Do I get snacks?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"anything in the kitchen. except the cake, that is for a work party.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Yeah, I'm in. When do I start-?\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"uhh... i guess when I leave for work?\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...OK.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*Silence comes over the room for a few seconds. There's a train system quite distant from Silver's house, and it can be heard passing by.*"
+        ],
+        "person": "---"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"...i'm gonna go back to sleep, Miles. Goodnight.\""
+        ],
+        "person": "silver"
+      },
+      {
+        "type": "message",
+        "content": [
+          "\"Alright, goodnight.\""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "message",
+        "content": [
+          "*They both get under the covers, as they were. Dozing off to sleep for the next day... or when Jan swats Miles' face again.*"
+        ],
+        "person": "---"
+      }
+    ],
+    "created": "2022-05-28T03:36:37Z"
+  },
+  {
+    "id": "template",
+    "scene": "Template",
+    "appearing_characters": [
+      ["miles", "Miles Prower"],
+      ["silver", "Silver Blure"]
+    ],
+    "content": [
+      {
+        "type": "message",
+        "content": [
+          ""
+        ],
+        "person": "miles"
+      },
+      {
+        "type": "break",
+        "content": "Later"
+      }
+    ],
+    "created": ""
+  }
+]
