@@ -60,6 +60,20 @@
 
 - Silver's Cat'
 
+### [AAL_SilversHouse](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse)
+
+- Miles Prower
+
+- Silver Blure
+
+- Silver's Cat
+
+### [AAM_MilesGarage](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage)
+
+- Miles Prower
+
+- Silver Blure
+
 ### [template](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/template)
 
 - Miles Prower
