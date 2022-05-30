@@ -17,7 +17,7 @@ json.forEach((v, i) => {
   v.appearing_characters.forEach((vv, vi) => {
     chars[vv[0]] = vv[1];
     mdTemp += `- ${vv[1]}\n`;
-    chlist += `- ${vv[1]}\n`;
+    chlist += `- ${vv[1]}\n\n`;
   });
   v.content.forEach((vv, vi) => {
     switch (vv.type) {
