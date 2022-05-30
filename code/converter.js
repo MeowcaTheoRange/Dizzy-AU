@@ -5,16 +5,19 @@ console.log(path);
 var json = JSON.parse(fs.readFileSync(path + "/story/database.json", { encoding: "utf8" }));
 var artjson = JSON.parse(fs.readFileSync(path + "/art/data.json", { encoding: "utf8" }));
 var fullMd = "";
+var indexmd = "";
 var artMd = "# Art Of The Dizzy AU\n\nSome art, either by MeowcaTheoRange or other people who like the Dizzy AU. Check it out below!\n\n";
 
 json.forEach((v, i) => {
   var mdTemp = `# ${v.scene}\n`;
+  var chlist = `# Table Of Contents\n\n`;
   var chars = {
     "---": "---"
   };
   v.appearing_characters.forEach((vv, vi) => {
     chars[vv[0]] = vv[1];
     mdTemp += `- ${vv[1]}\n`;
+    chlist += `- ${vv[1]}\n`;
   });
   v.content.forEach((vv, vi) => {
     switch (vv.type) {
@@ -31,10 +34,12 @@ json.forEach((v, i) => {
   });
   fullMd += mdTemp + "\n\n";
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
+  indexmd += "### [" + v.id + "](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + v.id + ".md)\n\n" + chlist
 })
 artjson.forEach((v, i) => {
   artMd += `## ${v.title}\n${v.description}\n\n![](${v.image})\n\nCredit: \`${v.credit}\`${v.link != undefined ? ` \([${v.linkName}](${v.link})\)` : ""}\n\n`;
 })
+fs.writeFileSync(`${path}/story/toc.md`, indexmd, {encoding: "utf8"});
 fs.writeFileSync(`${path}/story/human-readable.md`, fullMd, {encoding: "utf8"});
 fs.writeFileSync(`${path}/art.md`, artMd, {encoding: "utf8"});
 fs.writeFileSync(`${path}/index.md`, "# The full, unbroken story of the Dizzy AU.\n[See it on GitHub Pages.](https://meowcatheorange.github.io/Dizzy-AU/index)\n\n" + fullMd, {encoding: "utf8"});
