@@ -3,10 +3,6 @@
   <a href="https://meowcatheorange.github.io/Dizzy-AU/art">Art</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/story/human-readable">All Stories</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/story/toc">Table Of Contents</a>
 </h2>
 
-This repository will be tasked to hold the whole chronicles of the Dizzy AU.
-Perhaps it will also be formatted in multiple ways, database-sortable, human-readable, and maybe even a big fat single-file text doc.
-Either way it ends up, it will sit here.
-
 ## ⚠️⚠️ WARNING ⚠️⚠️
 
 Mature content __is ahead.__ Please be wary of these themes:
