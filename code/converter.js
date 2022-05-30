@@ -5,7 +5,7 @@ console.log(path);
 var json = JSON.parse(fs.readFileSync(path + "/story/database.json", { encoding: "utf8" }));
 var artjson = JSON.parse(fs.readFileSync(path + "/art/data.json", { encoding: "utf8" }));
 var fullMd = "";
-var artMd = "# Art Of The Dizzy AU\n\n";
+var artMd = "# Art Of The Dizzy AU\n\nSome art, either by MeowcaTheoRange or other people who like the Dizzy AU. Check it out below!\n\n";
 
 json.forEach((v, i) => {
   var mdTemp = `# ${v.scene}\n`;
@@ -33,7 +33,7 @@ json.forEach((v, i) => {
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
 })
 artjson.forEach((v, i) => {
-  artMd += `# ${v.title}\n${v.description}\n\n![](${v.image})\n\nCredit: \`${v.credit}\`\n\n`;
+  artMd += `## ${v.title}\n${v.description}\n\n![](${v.image})\n\nCredit: \`${v.credit}\`${v.link != undefined ? ` \([${v.linkName}](${v.link})\)` : ""}\n\n`;
 })
 fs.writeFileSync(`${path}/story/human-readable.md`, fullMd, {encoding: "utf8"});
 fs.writeFileSync(`${path}/art.md`, artMd, {encoding: "utf8"});
