@@ -33,7 +33,7 @@ json.forEach((v, i) => {
     }
   });
   fullMd += mdTemp + "\n\n";
-  fs.writeFileSync(`${path}/story/human-readable/${v.id}`, mdTemp, {encoding: "utf8"});
+  fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
   indexmd += "### [" + v.id + "](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + v.id + ")\n\n" + chlist
 })
 artjson.forEach((v, i) => {
