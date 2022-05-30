@@ -1,6 +1,6 @@
 # The Dizzy AU GitHub Repository
 <h2 align="center">
-  <a href="https://meowcatheorange.github.io/Dizzy-AU/art">Art</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/index">All Stories</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/story/toc">Table Of Contents</a>
+  <a href="https://meowcatheorange.github.io/Dizzy-AU/art">Art</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/story/human-readable">All Stories</a> | <a href="https://meowcatheorange.github.io/Dizzy-AU/story/toc">Table Of Contents</a>
 </h2>
 
 This repository will be tasked to hold the whole chronicles of the Dizzy AU.
