@@ -106,7 +106,7 @@
 
 ### Miles Prower
 
-> "When I was seven. I was quite the nerd back then." *Miles says, smirking at his own remark. "I definitely invented a lot of things."
+> "When I was seven. I was quite the nerd back then." Miles says, smirking at his own remark. "I definitely invented a lot of things."
 
 ### Silver Blure
 
