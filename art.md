@@ -9,5 +9,5 @@ This became the first representation of the Dizzy AU ever existing.
 
 ![](/art/images/PXL_20220503_054644319-01.jpeg)
 
-Credit: `MeowcaTheoRange`
+Credit: `MeowcaTheoRange` ([Tumblr](https://meowcatheorange.tumblr.com/))
 
