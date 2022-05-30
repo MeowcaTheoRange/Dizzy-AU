@@ -39,7 +39,6 @@ jobs:
       - name: Run git
         run: |
           git add $GITHUB_WORKSPACE/story/*
-          git add $GITHUB_WORKSPACE/index.md
           git add $GITHUB_WORKSPACE/art.md
           git commit -m "Automated file change"
           git push origin main
