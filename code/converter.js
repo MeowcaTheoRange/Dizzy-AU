@@ -5,12 +5,12 @@ console.log(path);
 var json = JSON.parse(fs.readFileSync(path + "/story/database.json", { encoding: "utf8" }));
 var artjson = JSON.parse(fs.readFileSync(path + "/art/data.json", { encoding: "utf8" }));
 var fullMd = "";
-var indexmd = "";
+var indexmd = "# Table Of Contents\n\n";
 var artMd = "# Art Of The Dizzy AU\n\nSome art, either by MeowcaTheoRange or other people who like the Dizzy AU. Check it out below!\n\n";
 
 json.forEach((v, i) => {
   var mdTemp = `# ${v.scene}\n`;
-  var chlist = `# Table Of Contents\n\n`;
+  var chlist = ``;
   var chars = {
     "---": "---"
   };
