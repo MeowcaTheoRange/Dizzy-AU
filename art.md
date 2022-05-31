@@ -62,3 +62,14 @@ theymre gay homo... But negative
 
 Credit: `MeowcaTheoRange` ([Tumblr](https://meowcatheorange.tumblr.com/))
 
+## Miles Electric Renders
+Some renders of the Dizzy Miles Electric.
+
+![](./art/images/MilesElectricSideSide.png)
+
+![](./art/images/MilesElectricTopSide.png)
+
+![](./art/images/MilesElectricSide.png)
+
+Credit: `MeowcaTheoRange` ([Tumblr](https://meowcatheorange.tumblr.com/))
+
