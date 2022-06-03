@@ -16,9 +16,9 @@
 
 > It was in his garage, from when he moved into this new apartment after his parents' house burnt down. He had tried to salvage everything he could... including his parts bin, which he forgot about years after.
 
-> Thinking about the incident, Miles then thought about his old room... about his old stuff. He had a workshop in his parents' garage- hell, it was so expansive that they had to park outside, in the driveway.
+> Thinking about the incident, Miles then thought about his old room... about his old stuff. He had a workshop in his parents' garage. It was so expansive that they had to park outside, in the driveway.
 
-> The whole thing could have been packed up in his parts bin- hell, most of it was already packed in there, but it required some time. However, ever since the house burnt down, the only thing left was the stuff that was in his parts bin.
+> The whole thing could have been packed up in his parts bin- well, thankfully, most of it was already packed in there, but it required some time to do it from scratch. However, ever since the house burnt down, the only thing left was the stuff that was in his parts bin.
 
 > Miles opened the parts bin, looking at everything inside. There were drills, a box of electronics, sorted well, some screwdrivers, hammers, a small welding kit, and two soldering irons, only one of them having a base station.
 
