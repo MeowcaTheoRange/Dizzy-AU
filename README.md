@@ -86,7 +86,7 @@ He's dreamed for his past revolutions to make rounds and at least generate some 
 But his previous place (his parents' house) caught fire, and all of his hard work as a small boy had turned to ash.
 
 ### Silver Blure
-- Aged -117 (23, from 200 years in the future), male he/him
+- Aged -177 (23, from 200 years in the future), male he/him
 - Bisexual
 
 Species: Mobian - Hedgehog
