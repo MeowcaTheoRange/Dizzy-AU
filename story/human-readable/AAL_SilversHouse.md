@@ -50,6 +50,8 @@
 > *After a long while, he finally finds the recycling bin marked with tape on its cupboard. Miles opens up the cupboard, throwing the can into the bin. He sighs, finally able to take a small break.
 
 > *Miles lies on the couch, able to just doze off until Jan needs him.*
-undefined|  |  |
-undefined| --- | --- |
-undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAK_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage) |
+
+
+|  |  |
+| --- | --- |
+| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAK_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage) |

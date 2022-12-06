@@ -177,6 +177,8 @@
 ### ---
 
 > *Oh yeah. By the way, they end up dozing off, until next morning.*
-undefined|  |  |
-undefined| --- | --- |
-undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAD_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) |
+
+
+|  |  |
+| --- | --- |
+| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAD_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) |

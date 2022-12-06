@@ -16,6 +16,8 @@
 > *But who knows... it could be a whole dumb thing. Just another plant in the farm of friendship. Love is dumb, and Miles (Tails) is very knowing of the fact that it's stupid. But with Silver, it's not dumb...*
 
 > *...it's just complicated.*
-undefined|  |  |
-undefined| --- | --- |
-undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAE_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAG_MilesHouse) |
+
+
+|  |  |
+| --- | --- |
+| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAE_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAG_MilesHouse) |

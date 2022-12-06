@@ -119,6 +119,8 @@
 ### Silver Blure
 
 > *Silver pats Miles on the head, while Miles pulls them both into a hug. A hug that marks an event for the ages.*
-undefined|  |  |
-undefined| --- | --- |
-undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAH_MilesHouse) |
+
+
+|  |  |
+| --- | --- |
+| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAH_MilesHouse) |

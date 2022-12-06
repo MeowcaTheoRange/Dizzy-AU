@@ -86,6 +86,8 @@
 ### ---
 
 > *They both get under the covers, as they were. Dozing off to sleep for the next day... or when Jan swats Miles' face again.*
-undefined|  |  |
-undefined| --- | --- |
-undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAJ_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse) |
+
+
+|  |  |
+| --- | --- |
+| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAJ_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse) |
