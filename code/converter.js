@@ -15,6 +15,9 @@ json.forEach((v, i) => {
     "---": "---"
   };
   var funnyTable = [
+    "|",
+    "|",
+    "|"
   ];
   v.appearing_characters.forEach((vv, vi) => {
     chars[vv[0]] = vv[1];
@@ -35,9 +38,9 @@ json.forEach((v, i) => {
     }
   });
   if (json[i - 1]) {
-    funnyTable[0] = "|  |";
-    funnyTable[1] = "| --- |";
-    funnyTable[2] = "| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i - 1].id + ") |";
+    funnyTable[0] += "  |";
+    funnyTable[1] += " --- |";
+    funnyTable[2] += " [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i - 1].id + ") |";
   }
   if (json[i + 1]) {
     funnyTable[0] += "  |";
