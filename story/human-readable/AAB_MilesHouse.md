@@ -91,3 +91,6 @@
 > *Now, Miles feels slight comfort near Silver, although.. not really anything more than cool friendliness... but to regain that love for Silver, they'd need to be around each other once again. That will happen soon enough...*
 
 > *Diz eventually falls back asleep, smiling while doing so... Thinking about how someone truly cared for him when he was struggling warmed him inside.*
+undefined  |
+undefined --- |
+undefined [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) |

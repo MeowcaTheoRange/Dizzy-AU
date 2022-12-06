@@ -51,3 +51,6 @@
 ### Silver Blure
 
 > "thanks, Miles." *Silver smiles, taking the TV remote. He turns the TV off and simply sleeps with Diz until the next day.*
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAE_MilesHouse) |

@@ -125,3 +125,6 @@
 ### Miles Prower
 
 > *Miles smiles slightly, hugging Silver.*
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAI_IceCreamStore) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAK_SilversHouse) |

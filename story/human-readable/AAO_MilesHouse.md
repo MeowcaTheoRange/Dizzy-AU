@@ -62,3 +62,6 @@
 > He's never actually had sex before, though... and he wouldn't want his first time to be a sloppy mess of confusion... so he simply puts off the thought until later, when he has time to learn.
 
 > For now, though, this has been the best shower experience he's ever had, and he might never forget it.
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAN_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/template) |

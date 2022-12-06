@@ -117,3 +117,6 @@
 > "That's... fair? I don't believe it myself either. I'm kinda dumb right now. Y'know... I'm getting old."
 
 > Miles sighs, searching through the menus of the Miles Electric. "But I definitely hope I can change my dumbassery. This could absolutely set my career."
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAN_MilesHouse) |

@@ -45,3 +45,6 @@
 > "Haha... yeah."
 
 > *They both get up, taking their ice cream with them on the road. They exit the shop, heading almost immediately in the direction of Silver's house.*
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAH_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAJ_SilversHouse) |

@@ -71,3 +71,6 @@
 > Ever since the incident, Miles always gets a sting of horrible shame whenever he sees a pool of water, or if water touches him.
 
 > However, he'll have to overcome his fear in order to take a shower.
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAO_MilesHouse) |

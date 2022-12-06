@@ -91,7 +91,9 @@
 > *Now, Miles feels slight comfort near Silver, although.. not really anything more than cool friendliness... but to regain that love for Silver, they'd need to be around each other once again. That will happen soon enough...*
 
 > *Diz eventually falls back asleep, smiling while doing so... Thinking about how someone truly cared for him when he was struggling warmed him inside.*
-
+undefined  |
+undefined --- |
+undefined [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) |
 
 # Miles' House
 - Silver Blure
@@ -152,7 +154,9 @@
 ### Miles Prower
 
 > "*nevermind whatever*"
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAB_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAD_MilesHouse) |
 
 # Miles' House
 - Silver Blure
@@ -207,7 +211,9 @@
 ### Silver Blure
 
 > "thanks, Miles." *Silver smiles, taking the TV remote. He turns the TV off and simply sleeps with Diz until the next day.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAE_MilesHouse) |
 
 # Miles' House
 - Silver Blure
@@ -388,7 +394,9 @@
 ### ---
 
 > *Oh yeah. By the way, they end up dozing off, until next morning.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAD_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) |
 
 # Miles' House
 - Miles Prower
@@ -408,7 +416,9 @@
 > *But who knows... it could be a whole dumb thing. Just another plant in the farm of friendship. Love is dumb, and Miles (Tails) is very knowing of the fact that it's stupid. But with Silver, it's not dumb...*
 
 > *...it's just complicated.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAE_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAG_MilesHouse) |
 
 # Miles' House
 - Miles Prower
@@ -531,7 +541,9 @@
 ### Silver Blure
 
 > *Silver pats Miles on the head, while Miles pulls them both into a hug. A hug that marks an event for the ages.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAF_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAH_MilesHouse) |
 
 # Miles' House
 - Miles Prower
@@ -568,7 +580,9 @@
 ### Miles Prower
 
 > "...I won't forget to..." *Miles hangs up, setting down the phone, sitting up, and rubbing his eyes.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAG_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAI_IceCreamStore) |
 
 # Ice Cream Store
 - Miles Prower
@@ -617,7 +631,9 @@
 > "Haha... yeah."
 
 > *They both get up, taking their ice cream with them on the road. They exit the shop, heading almost immediately in the direction of Silver's house.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAH_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAJ_SilversHouse) |
 
 # Silver's House
 - Miles Prower
@@ -746,7 +762,9 @@
 ### Miles Prower
 
 > *Miles smiles slightly, hugging Silver.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAI_IceCreamStore) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAK_SilversHouse) |
 
 # Silver's House
 - Miles Prower
@@ -836,7 +854,9 @@
 ### ---
 
 > *They both get under the covers, as they were. Dozing off to sleep for the next day... or when Jan swats Miles' face again.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAJ_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse) |
 
 # Silver's House
 - Miles Prower
@@ -890,7 +910,9 @@
 > *After a long while, he finally finds the recycling bin marked with tape on its cupboard. Miles opens up the cupboard, throwing the can into the bin. He sighs, finally able to take a small break.
 
 > *Miles lies on the couch, able to just doze off until Jan needs him.*
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAK_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage) |
 
 # Miles' Garage
 - Miles Prower
@@ -1011,7 +1033,9 @@
 > "That's... fair? I don't believe it myself either. I'm kinda dumb right now. Y'know... I'm getting old."
 
 > Miles sighs, searching through the menus of the Miles Electric. "But I definitely hope I can change my dumbassery. This could absolutely set my career."
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAL_SilversHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAN_MilesHouse) |
 
 # Miles' House
 - Miles Prower
@@ -1086,7 +1110,9 @@
 > Ever since the incident, Miles always gets a sting of horrible shame whenever he sees a pool of water, or if water touches him.
 
 > However, he'll have to overcome his fear in order to take a shower.
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAM_MilesGarage) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAO_MilesHouse) |
 
 # Miles' House
 - Miles Prower
@@ -1152,7 +1178,9 @@
 > He's never actually had sex before, though... and he wouldn't want his first time to be a sloppy mess of confusion... so he simply puts off the thought until later, when he has time to learn.
 
 > For now, though, this has been the best shower experience he's ever had, and he might never forget it.
-
+undefined|  |  |
+undefined| --- | --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAN_MilesHouse) | [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/template) |
 
 # Template
 - Miles Prower
@@ -1163,5 +1191,7 @@
 > 
 
     -- Later --
-
+undefined|  |
+undefined| --- |
+undefined| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAO_MilesHouse) |
 
