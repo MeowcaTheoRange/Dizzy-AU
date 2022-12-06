@@ -35,16 +35,16 @@ json.forEach((v, i) => {
     }
   });
   if (json[i - 1]) {
-    funnyTable[0] += "|  |";
-    funnyTable[1] += "| --- |";
-    funnyTable[2] += "| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i - 1].id + ") |";
+    funnyTable[0] = "|  |";
+    funnyTable[1] = "| --- |";
+    funnyTable[2] = "| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i - 1].id + ") |";
   }
   if (json[i + 1]) {
     funnyTable[0] += "  |";
     funnyTable[1] += " --- |";
     funnyTable[2] += " [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i + 1].id + ") |";
   }
-  mdTemp += funnyTable.join("\n");
+  mdTemp += "\n\n" + funnyTable.join("\n");
   fullMd += mdTemp + "\n\n";
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
   indexmd += "### [" + v.id + "](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + v.id + ")\n\n" + chlist
