@@ -139,11 +139,11 @@
 
 ### Silver Blure
 
-> "Great cool:) Is it OK. If I go there __right now__""*uh, yeah. feel free to come over anytime my dude*"
+> "Great cool:) Is it OK. If I go there like exactly __right now__?"
 
 ### Miles Prower
 
-> "*huh? i mean yeah come anytime like i said. but how are you gonna get here in under like a second*"
+> "*huh? i mean yeah come anytime like i said. but how are you gonna get here in under a second*"
 
 ### Silver Blure
 
@@ -873,7 +873,7 @@
 
 ### Silver's Cat
 
-> *Silver's cat meows, then walks out of the room through the silver of open door.*
+> *Silver's cat meows, then walks out of the room through the sliver of open door.*
 
 ### Miles Prower
 
@@ -1011,6 +1011,147 @@
 > "That's... fair? I don't believe it myself either. I'm kinda dumb right now. Y'know... I'm getting old."
 
 > Miles sighs, searching through the menus of the Miles Electric. "But I definitely hope I can change my dumbassery. This could absolutely set my career."
+
+
+# Miles' House
+- Miles Prower
+- Silver Blure
+
+    -- December --
+
+### Miles Prower
+
+> It is 8am, and Miles is sleeping on his couch, dreaming about his career.
+
+> The re-discovery of the Miles Electric dances across his brain. In his dream, he's holding it, making a bunch of money as it makes a small and consistent beeping sound.
+
+> The sound only gets louder...
+
+### Silver Blure
+
+> CALL FROM: Silver Blure
+
+### Miles Prower
+
+> Miles stretches, waking up to the horrible sound of his ringtone. Due to his phone's primitive software, this tone is the same exact tone as his alarm.
+
+> He snatches it off of the coffee table, lying back and taking the call.
+
+### Silver Blure
+
+> "Miles? Hey, uh - hi! Happy December, haha- it's been long! I don't know if you... forgot, but we're dating, y'know?"
+
+### Miles Prower
+
+> "...Silver? Hi? I, uh... didn't forget - I think I might've accidentally, like, went into hibernation, or something..."
+
+### Silver Blure
+
+> "Oh, God, seriously? Miles, you're a member of society, not a wild Mobian. That explains why it's been so long since you last answered."
+
+> "But Miles, I'm calling you now because, well, I'm no longer manager of the burger shop anymore - I got a new job, like... a month ago, and we're having a holiday party. Would you want to join?"
+
+### Miles Prower
+
+> "...Is this the first time you've called me, Silver?"
+
+### Silver Blure
+
+> No? I've called you many times before this. This is the first time you've picked up."
+
+> ...You've missed so much, man. And I miss you. Please, wake up and come to the party. You'll have a good time, alright?"
+
+### Miles Prower
+
+> "Silver, I'm... so sorry- I... I'll come to the party. When, uh... when is--"
+
+### Silver Blure
+
+> "Oh! Uh- You're-- coming? I, uh, sorry, I'm just- it's- hah- it's today at 12. In the afternoon."
+
+### Miles Prower
+
+> "I'll... be sure to make it, alright. I promise you."
+
+### Silver Blure
+
+> "Alright, that's great! I miss you, and I love you dearly- see you soon..."
+
+### Miles Prower
+
+> "...love you too, man. I always will. See ya-"
+
+> Miles hangs up the phone, geting up off of the couch. The first thing he should do is take a shower, but he isn't... too fond of water.
+
+> Ever since the incident, Miles always gets a sting of horrible shame whenever he sees a pool of water, or if water touches him.
+
+> However, he'll have to overcome his fear in order to take a shower.
+
+
+# Miles' House
+- Miles Prower
+
+### Miles Prower
+
+> The shower. It is Miles' worst enemy.
+
+> Not because he's a pony-loving pillow hugging recluse, but because of trauma.
+
+> A month or three before the story began, Miles sought out nothing but the freeing spirit of death. Sure, he had good friends, and an OK job...
+
+> ...but his mental health was dwindling, and his situation was more than dire.
+
+> He took to the nearby beach, looking out into the cold horizon and the wavy shores.
+
+> Then, taking a few steps forward, he met the edge of the tides. He looked back at the bright city, but wished nothing more.
+
+>  
+
+>  
+
+>  
+
+### Miles Prower
+
+> Miles snapped out of his flashback, looking up at the showerhead and sighing, sitting down on the stool in the shower. The surface felt cold upon his bare body, but he didn't flinch.
+
+> He reached over the the faucet, taking a breather, and twisting it on.
+
+> Cold water shocked his body, making him jump off of the stool in panic, falling upon the bathroom floor. He shivered, reaching over to the faucet and turning up the heat.
+
+> He then waited, naked on the bathroom floor, for the water to warm up.
+
+> "I hate this... so much... Why does it have to be this way... Why did I have to do all of that... fuck..."
+
+> Miles reached out to touch the water, in order to feel the temperature. The second a droplet fell upon Miles' hand, he got sent back to the cold horizon of the beach...
+
+> He shivered once again, flinging his hand away and backing up against the wall, waiting...
+
+>  
+
+>  
+
+> Steam began to form from the shower. It soon hit Miles, making him look up and almost... cry... The steam seemed to remind him of good memories.
+
+> It felt heavenly, and the warmth was like back when he was young, curled up upon his mother's fireplace. She had to read manuals to him as stories, but he never cherished those moments any less.
+
+> His mom didn't actually mind, although she gave him a hard time about it. She simply enjoyed seeing her boy grow up... but now he's a tubby mess who can't even take a shower.
+
+> Miles decides to test the waters again, due to the steam forming... He enters the shower, and...
+
+> It feels amazing. The warm water hits his back, and each droplet brings back bold memories. Good memories... He stands, taking it all in... He'd never felt anything more beautiful in his entire life.
+
+> At this point, he thought of Silver, and those he loved, as he applied the usual soap to his body. The fishy ocean smell that was ingrained into his coat disappears - not entirely, but it has for now.
+
+> All of this reminiscing, and all of this... soap... on his bare body, he... gets an idea.
+
+> Miles has not yet had sex... and Silver could be his... first? The thought exits his mind, he wouldn't want to think of it out of uncomfortability.
+
+> ...but it comes back, and slowly becomes ever so more enticing of an idea. The setup is clear, and the payoff is huge. After the party, they could... hang out, and... do it.
+
+> He's never actually had sex before, though... and he wouldn't want his first time to be a sloppy mess of confusion... so he simply puts off the thought until later, when he has time to learn.
+
+> For now, though, this has been the best shower experience he's ever had, and he might never forget it.
 
 
 # Template

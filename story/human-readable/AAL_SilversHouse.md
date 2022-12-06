@@ -33,7 +33,7 @@
 
 ### Silver's Cat
 
-> *Silver's cat meows, then walks out of the room through the silver of open door.*
+> *Silver's cat meows, then walks out of the room through the sliver of open door.*
 
 ### Miles Prower
 

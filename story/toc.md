@@ -74,6 +74,16 @@
 
 - Silver Blure
 
+### [AAN_MilesHouse](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAN_MilesHouse)
+
+- Miles Prower
+
+- Silver Blure
+
+### [AAO_MilesHouse](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAO_MilesHouse)
+
+- Miles Prower
+
 ### [template](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/template)
 
 - Miles Prower

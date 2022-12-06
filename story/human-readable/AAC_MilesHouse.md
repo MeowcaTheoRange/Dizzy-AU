@@ -44,11 +44,11 @@
 
 ### Silver Blure
 
-> "Great cool:) Is it OK. If I go there __right now__""*uh, yeah. feel free to come over anytime my dude*"
+> "Great cool:) Is it OK. If I go there like exactly __right now__?"
 
 ### Miles Prower
 
-> "*huh? i mean yeah come anytime like i said. but how are you gonna get here in under like a second*"
+> "*huh? i mean yeah come anytime like i said. but how are you gonna get here in under a second*"
 
 ### Silver Blure
 
