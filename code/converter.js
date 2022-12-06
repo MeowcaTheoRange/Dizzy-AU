@@ -14,6 +14,8 @@ json.forEach((v, i) => {
   var chars = {
     "---": "---"
   };
+  var funnyTable = [
+  ];
   v.appearing_characters.forEach((vv, vi) => {
     chars[vv[0]] = vv[1];
     mdTemp += `- ${vv[1]}\n`;
@@ -32,6 +34,17 @@ json.forEach((v, i) => {
         break;
     }
   });
+  if (json[i - 1]) {
+    funnyTable[0] += "|  |";
+    funnyTable[1] += "| --- |";
+    funnyTable[2] += "| [Previous](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i - 1].id + ") |";
+  }
+  if (json[i + 1]) {
+    funnyTable[0] += "  |";
+    funnyTable[1] += " --- |";
+    funnyTable[2] += " [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + json[i + 1].id + ") |";
+  }
+  mdTemp += funnyTable.join("\n");
   fullMd += mdTemp + "\n\n";
   fs.writeFileSync(`${path}/story/human-readable/${v.id}.md`, mdTemp, {encoding: "utf8"});
   indexmd += "### [" + v.id + "](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/" + v.id + ")\n\n" + chlist
