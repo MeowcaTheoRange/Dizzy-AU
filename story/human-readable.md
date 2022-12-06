@@ -93,9 +93,9 @@
 > *Diz eventually falls back asleep, smiling while doing so... Thinking about how someone truly cared for him when he was struggling warmed him inside.*
 
 
-undefined  |
-undefined --- |
-undefined [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) |
+|  |
+| --- |
+| [Next](https://meowcatheorange.github.io/Dizzy-AU/story/human-readable/AAC_MilesHouse) |
 
 # Miles' House
 - Silver Blure
